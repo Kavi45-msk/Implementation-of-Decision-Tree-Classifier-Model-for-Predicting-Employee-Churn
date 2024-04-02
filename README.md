@@ -60,7 +60,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
 ![318408406-541c24b3-59d2-48d7-81f3-d120d285dd2f](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/35293119-d5d4-4c3c-b5ad-b1b2bbdd8779)
 ![318408424-5dd19e9d-6f46-44b1-aad0-fb75131a25fa](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/7c4e4c71-2cb1-46d4-ad36-bbde25c8f4c2)
 ![318408454-2272c806-838b-4d04-aeb1-82fc809045d4](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/734587d5-b7fb-4aab-b88c-db70eaf94d7d)
