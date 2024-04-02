@@ -63,34 +63,49 @@ Data.head():
 
 
 Data.info():
+
+
+
 ![318627574-80d606d1-89a0-44ca-adab-7193369958a0](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/0d68fe8f-ca3a-497c-b849-cc795adc9da7)
 
 
 
 isnull() and sum():
+
+
 ![318627771-1545aa55-7b74-4f88-a551-bda52c90c149](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/a6d85076-d39f-4a37-9cc7-4faa482709b6)
 
 
 Data Value Counts():
+
+
 ![318627804-d003e638-3c04-4e84-bec6-704fddd71563](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/4434df1a-11f9-4442-ade6-b6b8c287d53c)
 
 
 Data.head() for salary:
+
+
 ![318627853-8a52bc22-65ef-42ef-a679-30347c84d0a8](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/f6ec96b4-455c-4421-b7df-2b763100718e)
 
 
 
 x.head():
+
+
 ![318627905-10d0ce78-537e-4ef4-8018-6d56072c8239](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/af19bc4f-4230-42f7-9607-63bb491ecb2f)
 
 
 
 Accuracy Value:
+
+
 ![318627952-cf94e7fa-20e3-488f-9c0c-ecf336e1dbaa](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/27177cea-238a-425c-9bf4-2a71622ebe82)
 
 
 
 Data prediction:
+
+
 ![318628010-41eba170-e1bd-4819-b4b4-7ef47859b338](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/8d2cd76b-d23e-4894-b001-1061c09409fc)
 
 ## Result:
