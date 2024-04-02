@@ -64,13 +64,5 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![318408424-5dd19e9d-6f46-44b1-aad0-fb75131a25fa](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/7c4e4c71-2cb1-46d4-ad36-bbde25c8f4c2)
 ![318408454-2272c806-838b-4d04-aeb1-82fc809045d4](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/734587d5-b7fb-4aab-b88c-db70eaf94d7d)
 ![318408484-c0437120-e318-4285-b86d-7a561abdd8bf](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/70dbe8d4-3dff-4df3-b724-16a16c5d1d80)
-![318408505-e0105ab9-f922-4de5-97ae-c7f296cd8ec0](https://github.com/Kavi45-msk/Implementation-of-De
-![318408525-5769c780-813f-4d20-8c9a-e646b4b6a90e](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predi
-![318408318-df2b9024-c189-4566-8a9a-a953d5229f2b](https://github.com/Kavi45-msk/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/72a24351-38ec-4d96-a511-67a7b0ea0a7f)
-
-cting-Employee-Churn/assets/147457752/bf3699b6-30b2-4d74-91d3-ef05cd279002)
-cision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147457752/774895c6-4ea3-44ed-8303-bdd864c42b87)
-
-
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
